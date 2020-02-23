@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.161
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据验证控件", "数据验证控件.csproj", "{D43DDD15-D2E0-477D-BBA7-731B94353EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43DDD15-D2E0-477D-BBA7-731B94353EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43DDD15-D2E0-477D-BBA7-731B94353EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43DDD15-D2E0-477D-BBA7-731B94353EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43DDD15-D2E0-477D-BBA7-731B94353EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {718622BE-B856-4FE8-9769-3C93BB85AAA6}
+	EndGlobalSection
+EndGlobal
