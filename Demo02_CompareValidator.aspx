@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            用户密码：<asp:TextBox ID="txtPwd" TextMode="Password" runat="server"></asp:TextBox>
+            用户密码的点点滴滴：<asp:TextBox ID="txtPwd" TextMode="Password" runat="server"></asp:TextBox>
             <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtPwd" ErrorMessage="请输入用户密码！" ForeColor="#FF3300"></asp:RequiredFieldValidator>
             <br />
             <br />
